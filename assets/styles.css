@@ -1,0 +1,26 @@
+#menubar {
+	height: 115px;
+	background-color: #1a1a1a;
+}
+
+a:link, a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: green;
+	text-decoration: none;
+}
+
+a {
+	margin-left: 55px;
+	line-height: 108px;
+	font-size: 70px;
+}
+
+.darkbg {
+	font-size: 25px;
+	margin-right: 40px;
+}
+
