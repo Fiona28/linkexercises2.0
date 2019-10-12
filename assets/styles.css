@@ -14,13 +14,125 @@ a:hover {
 }
 
 a {
-	margin-left: 55px;
-	line-height: 108px;
-	font-size: 70px;
+	line-height: 116px;
 }
 
-.darkbg {
-	font-size: 25px;
-	margin-right: 40px;
+#homepage {
+	font-size: 70px;
+	margin-left: 80px;
 }
+
+#cinema {
+	font-size: 21px;
+	margin-left: 1110px;
+}
+
+#dvd {
+	font-size: 21px;
+	margin-left: 25px;
+}
+
+#music {
+	font-size: 21px;
+	margin-left: 25px;
+}
+
+#theatre {
+	font-size: 21px;
+	margin-left: 25px;
+}
+
+#mainbody {
+    padding-bottom: 100px;
+    padding-left: 475px;
+    padding-top: 100px;
+}
+
+#hphoto {
+	width: 65%;
+}
+
+#footer {
+	height: 115px;
+	background-color: #1a1a1a;
+}
+
+#cinemaindex:link, #cinemaindex:visited {
+	color: #1a1a1a;
+	text-decoration: none;
+}
+
+#cinemaindex:hover {
+	color: green;
+	text-decoration: none;	
+}
+
+#cinemaindex {
+	line-height: 95px;
+	margin-left: 37%;
+	font-size: 20px;
+}
+
+#cinemalisting:link, #cinemalisting:visited {
+	color: #1a1a1a;
+	text-decoration: none;
+}
+
+#cinemalisting:hover {
+	color: green;
+	text-decoration: none;	
+}
+
+#cinemalisting {
+	line-height: 95px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+#cinemareviews:link, #cinemareviews:visited {
+	color: #1a1a1a;
+	text-decoration: none;
+}
+
+#cinemareviews:hover {
+	color: green;
+	text-decoration: none;	
+}
+
+#cinemareviews {
+	line-height: 95px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+#ciphoto {
+	padding-top: 5px;	
+	padding-left: 660px;
+	padding-bottom: 100px;
+	width: 500px;
+}
+
+#clphoto {
+	padding-top: 5px;	
+	padding-left: 492.5px;
+	padding-bottom: 100px;
+	width: 45%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
